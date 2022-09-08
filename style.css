@@ -5,4 +5,12 @@ body{
 
 p{
     background-color: beige;
+    width: 30%;
+    border: 2px solid black;
+}
+ul{
+    background-color: beige;
+}
+ol{
+    background-color: beige;
 }
