@@ -1,0 +1,10 @@
+body{
+    background-image: url("thumb-1920-900718.jpg");
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    background-color: beige;
+    width: 30%;
+    border: 2px solid black;
+
