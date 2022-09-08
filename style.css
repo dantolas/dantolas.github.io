@@ -3,3 +3,7 @@ body{
     color:yellow;
     font-family: 'Roboto', sans-serif;
 }
+
+p{
+    background-color: beige;
+}
